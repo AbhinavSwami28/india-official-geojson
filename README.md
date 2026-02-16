@@ -6,10 +6,10 @@
 
 Almost every India GeoJSON/TopoJSON on GitHub, npm, and Kaggle is **wrong**. They show:
 
-- Jammu & Kashmir cut at the Line of Control (LoC) — as if PoK doesn't belong to India
-- Aksai Chin missing — as if China's illegal occupation makes it theirs
-- Ladakh merged with J&K — ignoring the 2019 reorganization
-- Arunachal Pradesh boundaries disputed — it's not disputed, it's India
+- Jammu & Kashmir cut at the Line of Control (LoC) — Kashmir was, is, and will always remain an integral part of India
+- Aksai Chin missing — illegally occupied by China, but sovereign Indian territory
+- Ladakh merged with J&K — ignoring the 2019 reorganization into separate Union Territories
+- Arunachal Pradesh shown as "disputed" — it's not disputed, it's India. Period.
 
 **This repo fixes that.** Using boundary data from [india-in-data/kashmir](https://github.com/india-in-data/kashmir) for J&K and Ladakh, merged with comprehensive state data, this provides India's map as per the **Survey of India** and the **Government of India's official position**.
 
@@ -31,9 +31,7 @@ All 28 states + 4 key UTs included. Jammu & Kashmir and Ladakh as **separate uni
 - **Ladakh**: Full extent including Aksai Chin (75.4°E to 80.3°E, up to 36°N)
 - **Arunachal Pradesh**: Full extent (91.5°E to 97.4°E, up to 29.5°N)
 
-### What's NOT included (intentionally)
-
-Tiny UTs removed to reduce clutter: Chandigarh, Puducherry, Daman & Diu, Dadra & Nagar Haveli. These are too small to render meaningfully on state-level maps.
+All states and union territories are included. Nothing is excluded.
 
 ## Usage
 
@@ -88,3 +86,7 @@ Found an inaccuracy? Open an issue or PR. The goal is to maintain the most accur
 ## License
 
 MIT — use freely in commercial and personal projects. Attribution appreciated.
+
+---
+
+**Jai Hind. Vande Mataram. Bharat Mata Ki Jai.**
