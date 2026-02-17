@@ -2,6 +2,11 @@
 
 **The correct map of India.** Every state, every union territory, every square kilometer — including the parts that most open-source maps conveniently forget.
 
+<p align="center">
+  <img src="screenshots/map-preview.png" alt="India Official Boundaries Map" width="560">
+  <img src="screenshots/map-hover.png" alt="India Map — Hover on Lakshadweep" width="560">
+</p>
+
 ## Why This Exists
 
 Almost every India GeoJSON/TopoJSON on GitHub, npm, and Kaggle is **wrong**. They show:
